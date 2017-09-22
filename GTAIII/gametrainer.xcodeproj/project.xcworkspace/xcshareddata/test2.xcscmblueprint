@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1879E970272BC2CC2C0026EF6A3EDE46F8ECBA01",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1879E970272BC2CC2C0026EF6A3EDE46F8ECBA01" : 9223372036854775807,
+    "F57EBE1FB2846D5ADDC61FAD4ACE54AA3FB9480A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B08C3DE2-4892-41CB-A14C-73D6AAB577C5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1879E970272BC2CC2C0026EF6A3EDE46F8ECBA01" : "macHack\/",
+    "F57EBE1FB2846D5ADDC61FAD4ACE54AA3FB9480A" : "memory.dylib\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "test2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "test2\/test2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/gitlab.com\/erfg12\/macHack.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1879E970272BC2CC2C0026EF6A3EDE46F8ECBA01"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/gitlab.com\/erfg12\/memory.dylib.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F57EBE1FB2846D5ADDC61FAD4ACE54AA3FB9480A"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1879E970272BC2CC2C0026EF6A3EDE46F8ECBA01",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1879E970272BC2CC2C0026EF6A3EDE46F8ECBA01" : 9223372036854775807,
+    "0E5B7BCBE75432D837FA516FCBBCA6420201BCCA" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1573D2CA-A5A9-48B3-A299-46312FB7161C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1879E970272BC2CC2C0026EF6A3EDE46F8ECBA01" : "macHack\/",
+    "0E5B7BCBE75432D837FA516FCBBCA6420201BCCA" : "memory-macos-lib\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "gametrainer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GTAIII\/gametrainer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/gitlab.com\/erfg12\/memory-macos-lib.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0E5B7BCBE75432D837FA516FCBBCA6420201BCCA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/gitlab.com\/erfg12\/macHack.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1879E970272BC2CC2C0026EF6A3EDE46F8ECBA01"
+    }
+  ]
+}
